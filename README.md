@@ -1,4 +1,4 @@
-**Evgenii Arsentev, MD, PhD — author of contextburn and the payrollburn case series; Founder & CEO, Dad4Kids.**
+**Evgenii Arsentev, MD, PhD — creator of [Arsminal](https://arsminal.com); Founder & CEO, Dad4Kids and [arsentev.ai](https://arsentev.ai).** ORCID [0000-0002-9120-7298](https://orcid.org/0000-0002-9120-7298)
 
 ## Digital employees — free, open-source AI staff
 
