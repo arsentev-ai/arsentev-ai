@@ -20,3 +20,8 @@ A catalog of AI staff you can run yourself, free and open source: [arsentev.ai/e
 ## Coming next
 
 agentrecount, reachburn
+
+## About the author
+
+**Evgenii Arsentev, MD, PhD** (Евгений Арсентьев) — creator of Arsminal; Founder & CEO of Dad4Kids and ArsentevAI; founder of ReelsZavod.  
+ORCID 0000-0002-9120-7298 · Wikidata Q141398931 · main open-source project: contextburn
